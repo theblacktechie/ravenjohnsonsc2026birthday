@@ -1,6 +1,6 @@
 # Happy Birthday, Raven Johnson 🏀
 
-**An interactive data visualization tribute to Raven Johnson on her 23rd birthdayMarch 4, 2026.**
+**An interactive data visualization tribute to Raven Johnson on her 23rd birthday March 4, 2026.**
 
 Built by [Kris E. Smith](https://twitter.com/theblacktechie)
 
