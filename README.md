@@ -56,7 +56,7 @@ Takes less than two minutes.
 ## Design Notes
 
 - **Font:** Barlow and Barlow Condensed throughout — consistent with the broader Raven Johnson Career Series visual identity
-- **Colors:** South Carolina garnet (`#73000A`) and gold (`#C8A84B`) as primary accents
+- **Colors:** Background: Clean white: consistent with The Athletic and Sportico editorial style; South Carolina garnet (`#73000A`) and gold (`#C8A84B`) as primary accents
 - **Ball physics:** Designed to feel like a point guard walking the ball up the court. Slow, deliberate, high arc. Raven is a lefty, so the ball launches left on first tap.
 - **Accessibility:** Ball cadence and fade transitions are intentionally slow to be safe for photosensitive users
 - **Responsive:** Fully optimized for both desktop and mobile
